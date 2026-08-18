@@ -14,6 +14,8 @@ Estos apuntes están basados en la clase del profesor Sergio Sevilla Peña en la
 
 ## Características de la lengua Nahuatl
 
-1. Es polisintética y aglutinante
-2. Áltamente codificada
-3. Formas reverenciales y honoríficas
+### Es polisintética y aglutinante
+
+### Áltamente codificada
+
+### Formas reverenciales y honoríficas
