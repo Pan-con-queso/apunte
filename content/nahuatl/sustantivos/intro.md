@@ -1,13 +1,13 @@
 ---
-title: "Introducción"
+title: "Sustantivos"
 lead: ""
 date: 2020-10-06T08:48:45+00:00
 draft: false
 images: []
 menu:
   docs:
-    parent: "prologo"
-weight: 001
+    parent: "sustantivos"
+weight: 101
 ---
 
 Estos apuntes corresponden al Nahuatl de Santa Ana Tlacotenco, o __Masewalkopa__

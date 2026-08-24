@@ -5,6 +5,12 @@
   url = "/nahuatl/prologo/"
 
 [[docs]]
+  name = "Sustantivos"
+  weight = 10
+  identifier = "sustantivos"
+  url = "/nahuatl/sustantivos/"
+
+[[docs]]
   name = "Anexos"
   weight = 100
   identifier = "anexos"
